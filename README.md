@@ -27,11 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarmunjewar&show_icons=true&locale=en&layout=compact" alt="anwarmunjewar" /></p>
 
-![ValGenesis](https://img.shields.io/badge/-ValGenesis-000000?style=flat&logo=ValGenesis&logoColor=blue)
-![JIRA](https://img.shields.io/badge/-JIRA-000000?style=flat&logo=JIRA&logoColor=white)
-![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000000?style=flat&logo=AzureDevOps&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=181717)
-
 
 #### Skills
 - 💻 Computer Software Assurance (CSA)
